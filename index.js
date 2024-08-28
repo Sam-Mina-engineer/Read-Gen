@@ -11,12 +11,12 @@ const generateREADME = ({ title, description, installation, usage, contribution,
 ${description}
 
 ## Table of Contents
-- [Installation](#installation)
-- [Usage](#usage)
-- [License](#license)
-- [Contributing](#contributing)
-- [Tests](#tests)
-- [Questions](#questions)
+- [Installation](#installation)  <!-- Changed: Added anchor link format -->
+- [Usage](#usage)  <!-- Changed: Added anchor link format -->
+- [License](#license)  <!-- Changed: Added anchor link format -->
+- [Contributing](#contributing)  <!-- Changed: Added anchor link format -->
+- [Tests](#tests)  <!-- Changed: Added anchor link format -->
+- [Questions](#questions)  <!-- Changed: Added anchor link format -->
 
 ## Installation
 ${installation}
