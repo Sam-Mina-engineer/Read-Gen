@@ -3,7 +3,7 @@
 ![License](https://img.shields.io/badge/license-None-blue.svg)
 
 ## Description
- I started by copying the code for the solved Module 9 Mini Project to use as a guide. I set up the    gitignore, created my json files and downloaded my packages and dependencies. I removed the HTML stuff and reformatted with the hashtags  for the markdown headers and  updated the questions. After that I added the proper markdown anchors for the links to work. Did a test     push. Cleaning up and updating this Readme using the program itself to do it. Then will push again.
+This is a JavaScript Program, designed to run in Node.js, that is used to create professional ReadME markdown files. The link to the demonstration video is: https://www.youtube.com/watch?v=YJdCRZr60GE
 
 ## Table of Contents
 - [Installation](#installation)  
@@ -14,19 +14,19 @@
 - [Questions](#questions)
 
 ## Installation
-Navigate to the terminal in command line and run the node index.js
+Type npm i inquirer@8.2.4 and hit enter. Then type node index.js and hit enter. 
 
 ## Usage
-This will require Inquirer version 8.2.4
+This will require Inquirer version 8.2.4.
 
 ## License
 This project is licensed under the None license.
 
 ## Contributing
-Follow the prompts to create the user input that will be generated into the file
+Follow the promps to create the user input that will be generated into the file.
 
 ## Tests
-See above.
+Testing the app involves installing the appropriate packages and running the program in the Command terminal and following prompts. 
 
 ## Questions
 If you have any questions, please contact me at [samandmissy2010@gmail.com](mailto:samandmissy2010@gmail.com).
